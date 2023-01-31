@@ -1,0 +1,1 @@
+2023-01-22 21:01:37,338 ERROR C:\Python310\Scripts\topsis topsis.topsis Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
